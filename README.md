@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-Este  es un reposotorio del modulo2 de PrepCouse Henry
+Este es un proyecto de prueba  de como crear un repositoio y clonarlo desde github a mi compuradora.
